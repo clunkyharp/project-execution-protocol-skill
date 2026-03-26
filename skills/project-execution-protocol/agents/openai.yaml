@@ -1,4 +1,4 @@
 interface:
   display_name: "Project Execution Protocol"
-  short_description: "Scoped project execution with minimal diffs and concise handoffs"
-  default_prompt: "Use $project-execution-protocol to execute this coding task with strict scope control, adaptive reasoning depth, and concise Russian status updates."
+  short_description: "Строгий протокол выполнения задач с минимальными правками"
+  default_prompt: "Используй $project-execution-protocol для выполнения этой задачи: зафиксируй цель и границы, работай малыми шагами, держи минимальный diff и давай короткие практичные обновления на русском языке."
